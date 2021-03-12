@@ -17,41 +17,42 @@ Step3. Then type the command
         npm start
 (You will get the local server link; open it in the browser but you can login only through these usernames right now. I will explain why i have given dummy data here)
 
-Username - 1: user1
-password - user1
+Username - 1: user1<br>
+password - user1<br><br>
 
-Username - 2: user2
-password - user2
+Username - 2: user2<br>
+password - user2<br><br>
 
-Username - 3: user3
-password - user3
+Username - 3: user3<br>
+password - user3<br><br>
 
-Username - 4: user4
-password - user4
+Username - 4: user4<br>
+password - user4<br><br>
 
-Username - 5: user5
-password - user5
+Username - 5: user5<br>
+password - user5<br><br>
 
-####You can use this link instead and login with the above id's
+####You can use this link instead and login with the above id's.<br>
 https://commchat.netlify.app/
+<br><br>
 
 #What Backend and how to use it?
 
 <p style="color:red;">We have used chatengine.io as for our server and as socket for chatting.<br>
-  Simple steps for using this:
-  1. Login to chatengine.io
-  2. Create your account and you will get dashboard and secret key which will be integrated in the project.
-  3. In the dashboard you can create any channel and you can add any member data and to any channel.
-  4. And then user can use the username and password given by the admin.
+  Simple steps for using this:<br><br>
+  1. Login to chatengine.io<br>
+  2. Create your account and you will get dashboard and secret key which will be integrated in the project.<br>
+  3. In the dashboard you can create any channel and you can add any member data and to any channel.<br>
+  4. And then user can use the username and password given by the admin.<br>
 
 
 </p>
 
-(Basically, admin has the full control over the members and channels)
+(Basically, admin has the full control over the members and channels)<br><br><br>
 
 
-##Project Created by:
-1.[https://github.com/baibhav3211](Baibhav)
-2.[https://github.com/ritikalohia](Ritika Lohia)
-3.[https://github.com/UJJWAL2001](Ujjwal Chaudhary)
+##Project Created by:<br><br>
+1.[Baibhav](https://github.com/baibhav3211)<br>
+2.[Ritika Lohia](https://github.com/ritikalohia)<br>
+3.[Ujjwal Chaudhary](https://github.com/UJJWAL2001)<br>
 
