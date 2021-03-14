@@ -8,7 +8,7 @@
 5. In a room, the maximum limit of participants can join is 5. 
 
 
-##How to use this web app locally?
+## How to use this web app locally?
 
 Step1. CLone this repository and extract the files.
 Step2. Install the dependencied required for this project.
@@ -32,11 +32,11 @@ password - user4<br><br>
 Username - 5: user5<br>
 password - user5<br><br>
 
-####You can use this link instead and login with the above id's.<br>
+#### You can use this link instead and login with the above id's.<br>
 https://commchat.netlify.app/
 <br><br>
 
-#What Backend and how to use it?
+# What Backend and how to use it?
 
 <p style="color:red;">We have used chatengine.io as for our server and as socket for chatting.<br>
   Simple steps for using this:<br><br>
@@ -51,7 +51,7 @@ https://commchat.netlify.app/
 (Basically, admin has the full control over the members and channels)<br><br><br>
 
 
-##Project Created by:<br><br>
+## Project Created by:<br><br>
 1.[Baibhav](https://github.com/baibhav3211)<br>
 2.[Ritika Lohia](https://github.com/ritikalohia)<br>
 3.[Ujjwal Chaudhary](https://github.com/UJJWAL2001)<br>
